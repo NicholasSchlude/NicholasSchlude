@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Setting up a Virtual Network in Microsoft Azure</b>
-  -
+  - [Lab Details](https://github.com/NicholasSchlude/Setting-Up-A-Virtual-Network-In-Azure)
 
 
 <h2> Connect with me:</h2>
