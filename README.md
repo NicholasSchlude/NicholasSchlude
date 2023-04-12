@@ -2,7 +2,7 @@
 
 <h2>Information Technology Projects:</h2>
 
-- <b>Setting up a Free Microsoft Azure Account and Making a Resource Pool and Storage Account</b>
+- <b>Setting up a Virtual Network in Microsoft Azure</b>
   -
 
 
