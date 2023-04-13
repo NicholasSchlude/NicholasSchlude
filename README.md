@@ -5,7 +5,8 @@
 - <b>Setting up a Virtual Network in Microsoft Azure</b>
   - [Lab Details](https://github.com/NicholasSchlude/Setting-Up-A-Virtual-Network-In-Azure)
 
-
+- <b>Setting up a VPN </b>
+  - [Lab Details]
 <h2> Connect with me:</h2>
 
 
