@@ -9,7 +9,7 @@
   - [Lab Details](https://github.com/NicholasSchlude/Setting-Up-A-VPN#setting-up-a-vpn)
 
 - <b>Deploying Active Directory and Creating Users</b>
-  - [Lab Details]
+  - [Lab Details](https://github.com/NicholasSchlude/Deploying-Active-Directory-and-Creating-Users)
 
 <h2> Connect with me:</h2>
 
