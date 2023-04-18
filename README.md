@@ -10,7 +10,7 @@
 
 <h2>Active Directory Labs</h2>
 
-- <b>Deploying Active Directory and Creating Users</b>
+- <b>Deploying Active Directory</b>
   - [Lab Details](https://github.com/NicholasSchlude/Deploying-Active-Directory-and-Creating-Users)
 
 
