@@ -11,6 +11,9 @@
 - <b>Deploying Active Directory and Creating Users</b>
   - [Lab Details](https://github.com/NicholasSchlude/Deploying-Active-Directory-and-Creating-Users)
 
+- <b>Configuring osTicket to simulate a ticketing system</b>
+ -[Lab Details]
+
 <h2> Connect with me:</h2>
 
 
