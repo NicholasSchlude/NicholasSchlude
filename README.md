@@ -8,13 +8,12 @@
 - <b>Setting up a VPN </b>
   - [Lab Details](https://github.com/NicholasSchlude/Setting-Up-A-VPN#setting-up-a-vpn)
 
+<h2>Active Directory Labs</h2>
+
 - <b>Deploying Active Directory and Creating Users</b>
   - [Lab Details](https://github.com/NicholasSchlude/Deploying-Active-Directory-and-Creating-Users)
 
-- <b>Configuring osTicket to simulate a ticketing system</b>
- -[Lab Details]
 
-<h2> Connect with me:</h2>
 
 
 
