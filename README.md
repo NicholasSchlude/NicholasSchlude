@@ -1,18 +1,22 @@
 <h1>About</h1>
+Nicholas Schlude
 
-<h2>Information Technology Projects:</h2>
+Infrastructure and automation engineer focused on Linux, configuration management, infrastructure as code, containers, and system automation.
 
-- <b>[Setting up a Virtual Network in Microsoft Azure](https://github.com/NicholasSchlude/Setting-Up-A-Virtual-Network-In-Azure)</b>
+<h2>Technologies</h2>
 
-- <b>[Setting up a VPN](https://github.com/NicholasSchlude/Setting-Up-A-VPN#setting-up-a-vpn) </b>
+- <b>Linux / RHEL </b>
+- <b>Powershell</b>
+- <b>Bash</b>
+- <b>Ansible</b>
+- <b>Terraform</b>
+- <b>Docker</b>
+- <b>Kubernetes</b>
+- <b>Git</b>
+- <b>CI/CD</b>
+- <b>Azure</b>
 
-<h2>Active Directory Labs</h2>
 
-- <b>[Deploying Active Directory](https://github.com/NicholasSchlude/Deploying-Active-Directory-and-Creating-Users)</b>
-
-<h2>Cyber Security Lab</h2>
-
-- <b>[Infrastructure Creation]()</b>
 
 
 
